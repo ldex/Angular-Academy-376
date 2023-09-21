@@ -24,7 +24,6 @@ export class ProductDetailComponent {
       .subscribe(
         data => this.product = data
       )
-
   }
 
 }
