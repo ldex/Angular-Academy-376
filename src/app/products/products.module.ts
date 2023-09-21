@@ -6,7 +6,6 @@ import { ProductDetailComponent } from './product-detail/product-detail.componen
 import { ProductListComponent } from './product-list/product-list.component';
 import { FormsModule } from '@angular/forms';
 
-
 @NgModule({
   declarations: [
     ProductDetailComponent,
